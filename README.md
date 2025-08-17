@@ -472,22 +472,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for the utility-first styling approach
 - **All Contributors** who have helped shape this project
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/bighnesh0007/agrivision](https://github.com/bighnesh0007/agrivision)
-- **Issues**: [GitHub Issues](https://github.com/bighnesh0007/agrivision/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/bighnesh0007/agrivision/discussions)
-
----
-
-<div align="center">
-
-**Made with ❤️ for the farming community**
-
-*Empowering farmers with AI-driven agricultural intelligence*
-
-[![GitHub stars](https://img.shields.io/github/stars/bighnesh0007/agrivision?style=social)](https://github.com/bighnesh0007/agrivision)
-[![GitHub forks](https://img.shields.io/github/forks/bighnesh0007/agrivision?style=social)](https://github.com/bighnesh0007/agrivision)
-[![GitHub issues](https://img.shields.io/github/issues/bighnesh0007/agrivision)](https://github.com/bighnesh0007/agrivision/issues)
 
 </div>
